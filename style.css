@@ -1,0 +1,19 @@
+
+.container{
+    margin: 5px;
+    padding: 5px;
+    font-family: cursive;
+}
+
+.container2{
+    padding: 7px;
+    width: 130px;
+    height: 130px;
+    text-align: end;
+    border: 1px black solid;
+}
+
+
+.tabular-nums{
+    font-variant-numeric:tabular-nums
+}
